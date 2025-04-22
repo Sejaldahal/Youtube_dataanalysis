@@ -1,0 +1,6 @@
+# API keys
+api_key.txt
+.env
+# Python cache
+__pycache__/
+*.pyc
